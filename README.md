@@ -48,14 +48,14 @@ $ pdm run flask run
 * Running on http://127.0.0.1:5000/
 ```
 
-##Azure API - https://pypi.org/project/azure-ai-vision-imageanalysis/
+## Azure API - https://pypi.org/project/azure-ai-vision-imageanalysis/
 
 Install the Azure AI Vision Image analysis sdk for python using 
 ```
 $ pip install azure-ai-vision-imageanalysis
 ```
 
-##Environment Variables
+## Environment Variables
 Setup an acount on Azure and create a Computer Vision instance. Use the endpoint and key as below in your .env file
 ```
 AZURE_ENDPOINT
